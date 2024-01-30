@@ -12,7 +12,7 @@ class DetailUserService{
         name: true,
         email: true,
       }
-    })
+    });
 
     return user;
   }
